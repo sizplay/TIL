@@ -58,3 +58,17 @@ console.log(obj);
 }
 */
 ```
+
+실무에서 백엔드로 객체를 전송하는데 빈 value를 가진 property는 제외 하고 보낼때 간단하게 변환 할 수 있다.
+
+```javascript
+const myApp = {
+  chat: "kakaotalk",
+  browser: "chrome", "firefox", "safari"],
+  navigation: {
+    food: "kakaomap",
+    traffic: "tmap",
+    map: ""
+  }
+};
+```
