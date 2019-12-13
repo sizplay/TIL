@@ -2,6 +2,12 @@
 
 # Today I learned
 
+20191213
+
+Today what I did
+
+- async await을 사용 할때 여러개의 await을 빠른 속도로 처리 하기 위해 할 수 있는 방법은 await을 promise all로 한꺼번에 받아서 처리하면 좀더 나은 속도로 처리가 가능하다.
+
 20191209
 
 Today what I did
