@@ -2,6 +2,11 @@
 
 # Today I learned
 
+20191214
+
+Today what I did
+useEffect 완벽 가이드를 한번 더 읽었다. 아무래도 이건 좀 더 이해가 필요 할거 같아 한번 죽 정리를 해서 최소한 내가 이해한 만큼은 블로그에 포스팅 해야겠다.
+
 20191213
 
 Today what I did
