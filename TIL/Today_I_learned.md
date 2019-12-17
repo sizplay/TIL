@@ -2,6 +2,11 @@
 
 # Today I learned
 
+20191217
+
+Today what I heard
+Dan Abramov가 내가 자주쓰던 lodash의 cloneDeep을 사용하지 않고 대신 부분만 변경하여 업데이트 하는 방식으로 immer를 추천 하였다. 역시 immer를 써야 하나 보다.
+
 20191214
 
 Today what I did
