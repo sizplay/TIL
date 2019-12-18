@@ -2,6 +2,12 @@
 
 # Today I learned
 
+20191218
+
+Today what I did
+
+몇달 전 부터 진행 해온 [리팩토링구루](https://refactoring.guru/) 에 있는 Design pattern을 2개씩 읽고 토론 하는 것을 마무리 하게 되었다. 처음 부터 끝까지 모든 디자인 패턴을 한번씩 훓고 나니 디자인 패턴에 대해 좀 이해가 생겼다. 비록 react개발을 해서 functional programming을 하지만 디자인 패턴이 개발에 미약하게라도 도움이 되고 있지 않나 생각한다.
+
 20191217
 
 Today what I heard
