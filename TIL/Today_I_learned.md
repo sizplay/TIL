@@ -2,6 +2,12 @@
 
 # Today I learned
 
+20191219
+
+Today what I learned
+
+SyntheticEvent는 풀링됩니다. 성능상의 이유로 SyntheticEvent 객체는 재사용되고 모든 속성은 이벤트 핸들러가 호출된 다음 초기화됩니다. 따라서 비동기적으로 이벤트 객체에 접근할 수 없습니다.
+
 20191218
 
 Today what I did
